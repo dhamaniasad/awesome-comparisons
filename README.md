@@ -10,3 +10,8 @@ A list of awesome comparison projects
 ## MV* framework
 
 * [TodoMVC](https://github.com/tastejs/todomvc) - Code comparison between Backbone, AngularJS, Ember, KnockoutJS, Dojo, YUI, Agility, Knockback, CanJS, Maria, Polymer, React, Mitrhil, Ampersand, Flight, Vue, Meteor, SocketStream and many more
+
+## Cloud technologies
+
+ * [paasify.it](http://www.paasify.it/) - Compares Plattform as a Service (PaaS) providers using a set of criteria. More than 100 offerings listed.
+ * [VPS Benchmarks](http://www.vpsbenchmarks.com/) - Compares virtual machine (VM) providers based on performance meassurements
