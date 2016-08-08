@@ -15,3 +15,7 @@ A list of awesome comparison projects
 
  * [paasify.it](http://www.paasify.it/) - Compares Plattform as a Service (PaaS) providers using a set of criteria. More than 100 offerings listed.
  * [VPS Benchmarks](http://www.vpsbenchmarks.com/) - Compares virtual machine (VM) providers based on performance meassurements
+
+## Rich text editors
+
+* [JavaScript-WYSIWYG-editors](https://github.com/iDoRecall/comparisons/blob/master/JavaScript-WYSIWYG-editors.md) - A comparison of 50 WYSIWYG editors.
