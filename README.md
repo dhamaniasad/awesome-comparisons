@@ -22,6 +22,7 @@ A list of awesome comparison projects
  * [PaaSfinder](https://paasfinder.org/) - Compares Plattform as a Service (PaaS) providers using a set of criteria. More than 100 offerings listed.
  * [stackshare](http://stackshare.io/) - Software tools and cloud infrastructure services.
  * [VPS Benchmarks](http://www.vpsbenchmarks.com/) - Compares virtual machine (VM) providers based on performance meassurements
+ * [Cloudorado](https://www.cloudorado.com/) - Cloud services comparison tool
 
 ## Markup
  * [Lightweight Markup](http://hyperpolyglot.org/lightweight-markup) - Compares Markdown, reStructuredText, MediaWiki, AsciiDoc, Org-mode 
