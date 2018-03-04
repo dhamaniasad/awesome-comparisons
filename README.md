@@ -7,6 +7,7 @@ A list of awesome comparison projects
 
 * [Awesome JavaScript](https://js.libhunt.com/) - Compares JavaScript libraries
 * [Microjs](http://microjs.com/) - Interactive choice for JavaScript libraries and frameworks.
+* [JavaScripting](http://javascripting.com/) - Database of JavaScript libraries
 * [Notejam](https://github.com/komarserjio/notejam) - Code comparison between Django, Flask, Pyramid, Symfony, Laravel, Yii, Ruby on Rails, Padrino, and Express
 * [perfect URL regex](https://mathiasbynens.be/demo/url-regex) - Compares regular expressions for matching URLs
 * [RealWorld](https://github.com/gothinkster/realworld) -  Fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
