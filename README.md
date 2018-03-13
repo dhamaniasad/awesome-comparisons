@@ -43,4 +43,5 @@ A list of awesome comparison projects
  * [Software Recommendations](http://softwarerecs.stackexchange.com/) - Plattform by the StackOverflow persons for software recommenations.
  * [Slant](https://www.slant.co/) - An open platform for comparing different development related things. Example: [Knockout vs. Aurelia](https://www.slant.co/versus/33/37/~knockout_vs_aurelia)
  * [vsChart.com](http://vschart.com/) - Wiki-based comparisons of two things.
- 
+ * [versus.com](http://versus.com/) - Data-driven comparison platform where you can compare anything
+ * [CPUBoss](http://cpuboss.com/) - Compare CPUs to see which is better
